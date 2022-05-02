@@ -15,6 +15,6 @@ task3.py : python script to get the location , number assert statements and numb
 
 ## Pydriller :
 
-task4.py : 
+task4.py : python script to 
 
-gen-figures :
+gen-figures : generated plots for task2,3 and task4
