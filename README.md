@@ -18,6 +18,6 @@ task3.py : python script to get the location , number assert statements and numb
 
 ## Pydriller :
 
-task4.py : python script to analyse the authors contributing,number of files added or modified
+task4.py : python script to analyse the authors contributing,number of files added or modified.
 
 gen-figures : generated plots for task2,3 and task4
